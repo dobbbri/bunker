@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "icon": "logo.png",
   "galleryBanner": {
-    "color": "#0b1015",
+    "color": "#139BFF",
     "theme": "dark"
   },
   "homepage": "https://github.com/sldobri/bunker/blob/master/README.md",
@@ -29,12 +29,12 @@
       {
         "label": "Dobri Dark And Vivid Colors - light grey ascent",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000.tmTheme"
+        "path": "./themes/Dobri000.json"
       },
       {
         "label": "Dobri Dark And Vivid Colors - indigo ascent",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri001.tmTheme"
+        "path": "./themes/Dobri001.json"
       }
     ],
     "iconThemes": [
