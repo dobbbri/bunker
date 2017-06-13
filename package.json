@@ -1,13 +1,13 @@
 {
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
-  "description": "The better Dark and Vivid Color Theme and Icons for Visual Studio Code",
-  "version": "0.0.4",
+  "description": "The better Dark Theme and Icons with vivid colors for Visual Studio Code",
+  "version": "0.0.5",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
   "galleryBanner": {
-    "color": "#139BFF",
+    "color": "#0B1015",
     "theme": "dark"
   },
   "homepage": "https://github.com/sldobri/bunker/blob/master/README.md",
