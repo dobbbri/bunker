@@ -84,14 +84,14 @@
       "scope": "string, constant.numeric, constant.language",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#A6E22E"
+        "foreground": "#56D6D6"
       }
     },
     {
       "name": "Regex String",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#56D6D6"
       }
     },
     {
@@ -119,7 +119,7 @@
       "name": "Regex Character",
       "scope": "constant.character.escape.backslash.regexp",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#56D6D6"
       }
     },
     {
@@ -483,7 +483,7 @@
       "name": "JSON String",
       "scope": "meta.structure.dictionaryon string.quoted.doubleon",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#56D6D6"
       }
     },
     {
@@ -553,7 +553,7 @@
       "name": "Markdown String",
       "scope": "markdown.block.fenced.code.string, markdown.block.fenced.code.string.quote",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#56D6D6"
       }
     },
     {
@@ -595,7 +595,7 @@
       "name": "diff.inserted",
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#56D6D6"
       }
     },
     {

@@ -13,5 +13,6 @@ The better Dark Theme and Icons with vivid colors for Visual Studio Code
 
 ### Icons
 ![Icons](https://raw.githubusercontent.com/sldobri/bunker/master/img/icons.png)
+
 New Themes and Icons coming soon ...
 
