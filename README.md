@@ -3,15 +3,15 @@
 The better Dark Theme and Icons with vivid colors for Visual Studio Code
 
 ### JS
-![js](https://raw.githubusercontent.com/sldobri/vscode-themes/master/img/preview.png)
+![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview.png)
 
 ### Html
-![html](https://raw.githubusercontent.com/sldobri/vscode-themes/master/img/preview2.png)
+![html](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview2.png)
 
 ### PHP
-![PHP](https://raw.githubusercontent.com/sldobri/vscode-themes/master/img/preview1.png)
+![PHP](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview1.png)
 
 ### Icons
-![Icons](https://raw.githubusercontent.com/sldobri/vscode-themes/master/img/icons.png)
+![Icons](https://raw.githubusercontent.com/sldobri/bunker/master/img/icons.png)
 New Themes and Icons coming soon ...
 
