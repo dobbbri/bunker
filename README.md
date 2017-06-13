@@ -8,5 +8,10 @@ The better Dark Theme and Icons with vivid colors for Visual Studio Code
 ### Html
 ![html](https://raw.githubusercontent.com/sldobri/vscode-themes/master/img/preview2.png)
 
+### PHP
+![PHP](https://raw.githubusercontent.com/sldobri/vscode-themes/master/img/preview1.png)
+
+### Icons
+![Icons](https://raw.githubusercontent.com/sldobri/vscode-themes/master/img/icons.png)
 New Themes and Icons coming soon ...
 
