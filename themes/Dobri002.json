@@ -1,7 +1,7 @@
 {
   "type": "dark",
   "colors": {
-    "foreground": "#ffffff",
+    "foreground": "#f5f5f5",
     "focusBorder": "#2c3e50",
     "widget.shadow": "#000000",
     "input.background": "#05080a",
@@ -15,21 +15,22 @@
     "list.hoverBackground": "#2c3e50",
     "list.dropBackground": "#b254ff80",
     "list.highlightForeground": "#b254ff",
-    "pickerGroup.border": "#ffffff1a",
+    "pickerGroup.border": "#f5f5f51a",
     "button.hoverBackground": "#b254ff",
     "scrollbar.shadow": "#05080a",
     "scrollbarSlider.hoverBackground": "#2c3e50",
     "editor.background": "#0b1015",
-    "editor.foreground": "#ffffff",
+    "editor.foreground": "#f5f5f5",
+    "editor.lineHighlightBackground": "#0b1015",
     "editorWidget.background": "#111820",
     "editor.findMatchBackground": "#2c3e50",
     "editorHoverWidget.background": "#332e54",
-    "editor.lineHighlightBorder": "#ffffff1a",
-    "editor.rangeHighlightBackground": "#ffffff0d",
+    "editor.lineHighlightBorder": "#f5f5f51a",
+    "editor.rangeHighlightBackground": "#f5f5f50d",
     "editorCursor.foreground": "#b254ff",
     "editorWhitespace.foreground": "#97a7c8ff",
     "editorIndentGuide.background": "#2c3e50",
-    "editorLineNumber.foreground": "#ffffff4d",
+    "editorLineNumber.foreground": "#f5f5f54d",
     "editorMarkerNavigation.background": "#332e54",
     "tab.activeBackground": "#0b1015",
     "tab.inactiveBackground": "#0b1015",
@@ -45,12 +46,12 @@
     "panel.border": "#05080a",
     "panelTitle.activeForeground": "#b254ff",
     "panelTitle.inactiveForeground": "#97a7c8ff",
-    "panelTitle.activeBorder": "#ffffff80",
+    "panelTitle.activeBorder": "#f5f5f580",
     "statusBar.foreground": "#97a7c8ff",
     "statusBar.background": "#111820",
     "statusBar.noFolderBackground": "#221f38",
     "statusBarItem.activeBackground": "#b254ff80",
-    "statusBarItem.hoverBackground": "#ffffff1a",
+    "statusBarItem.hoverBackground": "#f5f5f51a",
     "activityBar.background": "#0b1015",
     "activityBar.foreground": "#97a7c8ff",
     "activityBar.dropBackground": "#b254ff80",
@@ -70,7 +71,7 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#ffffffff",
+        "foreground": "#f5f5f5",
         "background": "#0b1015ff"
       }
     },
@@ -360,7 +361,7 @@
       "name": "C# namespace",
       "scope": "source.cs entity.name.type.namespace",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#f5f5f5"
       }
     },
     {

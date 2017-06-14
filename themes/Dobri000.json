@@ -19,7 +19,7 @@
     "editorWidget.background": "#111820",
     "editor.selectionBackground": "#3d4148",
     "editor.findMatchBackground": "#2c3e50",
-    "editor.lineHighlightBackground": "#23262d",
+    "editor.lineHighlightBackground": "#0b1015",
     "editorCursor.foreground": "#ff8d03",
     "editorWhitespace.foreground": "#97a7c8ff",
     "editorIndentGuide.background": "#2c3e50",
@@ -140,7 +140,7 @@
       "name": "Object",
       "scope": "variable.other.object",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
@@ -154,7 +154,7 @@
       "name": "Classes",
       "scope": "variable.other.class, meta.class.property variable.other.property",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
@@ -182,21 +182,21 @@
       "name": "Language",
       "scope": "variable.language, meta.class variable.other.readwrite",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
       "name": "Language Prototype",
       "scope": "variable.language.prototype",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
       "name": "Python Magic Variable",
       "scope": "python.support.magic.variable",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
@@ -369,7 +369,7 @@
       "name": "Tag name",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
@@ -475,7 +475,7 @@
       "name": "JSON Property",
       "scope": "meta.structure.dictionaryon support.type.property-name",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
@@ -496,7 +496,7 @@
       "name": "Markdown Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
@@ -587,7 +587,7 @@
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FB3871"
       }
     },
     {
