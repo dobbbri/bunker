@@ -27,12 +27,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dobri Dark And Vivid Colors - light grey ascent",
+        "label": "Dobri Dark And Vivid Colors - Next",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri000.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - indigo ascent",
+        "label": "Dobri Dark And Vivid Colors - Indigo",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri001.json"
       },
