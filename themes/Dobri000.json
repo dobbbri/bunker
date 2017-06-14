@@ -40,7 +40,7 @@
     "statusBar.background": "#111820",
     "activityBar.background": "#0b1015",
     "activityBar.foreground": "#97a7c8ff",
-    "activityBarBadge.background": "#97a7c8ff",
+    "activityBarBadge.background": "#ff8d03",
     "sideBar.background": "#080b0f",
     "sideBarSectionHeader.background": "#111820",
     "titleBar.inactiveForeground": "#080b0f",

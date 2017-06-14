@@ -2,6 +2,8 @@
 
 The better Dark Theme and Icons with vivid colors for Visual Studio Code
 
+### 2017/06/14 - added 3 new themes, new colors
+
 ### JS
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview.png)
 
