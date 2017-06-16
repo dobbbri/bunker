@@ -50,6 +50,16 @@
         "label": "Dobri Dark And Vivid Colors - Material",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri003.json"
+      },
+      {
+        "label": "Dobri Dark And Vivid Colors - Ayu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri005.json"
+      },
+      {
+        "label": "Dobri Dark And Vivid Colors - One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri006.json"
       }
     ],
     "iconThemes": [
@@ -59,5 +69,10 @@
         "path": "./icons.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "1256df07-e7c0-4e17-bd23-96b617cf21bc",
+    "publisherId": "688471b5-3365-4cd5-8597-783c039d84e3",
+    "publisherDisplayName": "Sergio Luiz Dobri"
   }
 }
