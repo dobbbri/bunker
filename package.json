@@ -32,6 +32,21 @@
         "path": "./themes/Dobri000.json"
       },
       {
+        "label": "Dobri Dark And Vivid Colors - Next - Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri000H.json"
+      },
+      {
+        "label": "Dobri Dark And Vivid Colors - Next - Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri000M.json"
+      },
+      {
+        "label": "Dobri Dark And Vivid Colors - Next - Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri000S.json"
+      },
+      {
         "label": "Dobri Dark And Vivid Colors - Indigo",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri001.json"
