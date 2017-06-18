@@ -1,7 +1,7 @@
 {
   "type": "dark",
   "colors": {
-    "focusBorder": "#2c3e50",
+    "focusBorder": "#97a7c8ff",
     "widget.shadow": "#000000",
     "input.background": "#05080a",
     "input.border": "#ff8d03",
@@ -47,7 +47,23 @@
     "titleBar.activeBackground": "#111820",
     "notification.background": "#111820",
     "debugToolBar.background": "#111820",
-    "statusBar.debuggingBackground": "#111820"
+    "statusBar.debuggingBackground": "#111820",
+    "terminal.ansiWhite": "#ffffff",
+    "terminal.ansiBlack": "#05080a",
+    "terminal.ansiBlue": "#82AAFF",
+    "terminal.ansiCyan": "#89DDFF",
+    "terminal.ansiGreen": "#C3E88D",
+    "terminal.ansiMagenta": "#C792EA",
+    "terminal.ansiRed": "#FF5370",
+    "terminal.ansiYellow": "#FFCB6B",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightBlack": "#676E95",
+    "terminal.ansiBrightBlue": "#82AAFF",
+    "terminal.ansiBrightCyan": "#89DDFF",
+    "terminal.ansiBrightGreen": "#C3E88D",
+    "terminal.ansiBrightMagenta": "#C792EA",
+    "terminal.ansiBrightRed": "#FF5370",
+    "terminal.ansiBrightYellow": "#FFCB6B"
   },
   "tokenColors": [
     {
