@@ -24,6 +24,7 @@
     "editor.findMatchBackground": "#18222Dff",
     "editor.lineHighlightBackground": "#0b1015",
     "editorLineNumber.foreground": "#5C6370",
+    "editorRuler.foreground": "#18222Dff",
     "editorCursor.foreground": "#ff8d03",
     "editorWhitespace.foreground": "#97a7c8ff",
     "editorIndentGuide.background": "#18222Dff",

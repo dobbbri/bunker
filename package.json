@@ -32,6 +32,11 @@
         "path": "./themes/Dobri000.json"
       },
       {
+        "label": "Dobri Dark And Vivid Colors - Next - Cobalt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri000B.json"
+      },
+      {
         "label": "Dobri Dark And Vivid Colors - Next - Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri000D.json"
