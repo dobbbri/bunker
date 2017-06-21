@@ -21,7 +21,7 @@
     "editor.findMatchBackground": "#2c3e50",
     "editor.lineHighlightBackground": "#0b1015",
     "editorCursor.foreground": "#ff8d03",
-    "editorWhitespace.foreground": "#97a7c8ff",
+    "editorWhitespace.foreground": "#2c3e50",
     "editorIndentGuide.background": "#2c3e50",
     "editorRuler.foreground": "#2c3e50",
     "tab.activeBackground": "#111820",
