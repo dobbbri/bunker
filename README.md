@@ -1,6 +1,6 @@
 # Dobri Next - Themes and Icons pack
 
-## 8 dark themes and 1 Icons pack##
+## 8 dark themes, 5 background variants and 1 Icons pack
 
 ### 2017/06/21 - added new Cobalt background variants e others screeshots
 ### 2017/06/20 - added new DARK background variants
