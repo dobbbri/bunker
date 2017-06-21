@@ -17,6 +17,9 @@
 ### Next - Cobalt
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
 
+### Next - Gun Metal
+![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-gun-metal.png)
+
 ### Next - Hard
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
 
@@ -25,6 +28,9 @@
 
 ### Next - Soft
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-soft.png)
+
+### Next
+![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next.png)
 
 ### Next - Indigo
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/indigo.png)
