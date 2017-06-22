@@ -15,11 +15,11 @@
 ### Next - Dark
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-dark.png)
 
+### Next - Mirage
+![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mirage.png)
+
 ### Next - Cobalt
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
-
-### Next - Mirage
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mitage.png)
 
 ### Next - Hard
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
@@ -37,7 +37,7 @@
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/indigo.png)
 
 
-## Others Themes with bunker background
+## Others Themes with bunker background and vivid colos
 
 ### Material
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/material.png)
