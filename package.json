@@ -2,7 +2,7 @@
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
   "description": "The better Dark Theme and Icons with vivid colors for Visual Studio Code",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -37,7 +37,7 @@
         "path": "./themes/Dobri000B.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Next - Gun Metal",
+        "label": "Dobri Dark And Vivid Colors - Next - Mirage",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri000G.json"
       },
@@ -60,11 +60,6 @@
         "label": "Dobri Dark And Vivid Colors - Next - Soft",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri000S.json"
-      },
-      {
-        "label": "Dobri Dark And Vivid Colors - Next",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000.json"
       },
       {
         "label": "Dobri Dark And Vivid Colors - Indigo",

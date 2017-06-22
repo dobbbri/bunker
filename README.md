@@ -2,6 +2,7 @@
 
 ## 8 dark themes, 6 background variants and 1 Icons pack
 
+### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
 ### 2017/06/21 - added new Cobalt background and GunMetal variants e others screeshots
 ### 2017/06/20 - added new DARK background variants
 ### 2017/06/18 - added more 3 new background variants
@@ -17,8 +18,8 @@
 ### Next - Cobalt
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
 
-### Next - Gun Metal
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-gun-metal.png)
+### Next - Mirage
+![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mitage.png)
 
 ### Next - Hard
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
@@ -35,6 +36,7 @@
 ### Next - Indigo
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/indigo.png)
 
+
 ## Others Themes with bunker background
 
 ### Material
@@ -48,6 +50,7 @@
 
 ### Ayu
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/ayu.png)
+
 
 ## Details
 
