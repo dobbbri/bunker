@@ -16,7 +16,7 @@
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-dark.png)
 
 ### Next - Mirage
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mirage.png)
+![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-Mirage.png)
 
 ### Next - Cobalt
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
