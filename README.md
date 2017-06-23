@@ -10,46 +10,64 @@
 ### 2017/06/14 - added 3 new themes with vivid colors
 ### 2017/06/10 - 2 themes with new colors
 
+
+## FAQ
+
+### Font used in screenshots
+[Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart)
+
+### And my others fonts
+[Iosevka](https://github.com/be5invis/Iosevka) free - compact - ligatures
+[Fira Code](https://github.com/tonsky/FiraCode) free - ligatures
+[SF Mono](https://developer.apple.com/fonts/) pay
+
+
 ## My Next Colors
 
 ### Next - Dark
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-dark.png)
+![Dark](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-dark.png)
 
 ### Next - Mirage
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-Mirage.png)
+![Mirage](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-Mirage.png)
 
 ### Next - Cobalt
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
+![Cobalt](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
 
 ### Next - Hard
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
+![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
 
 ### Next - Medium
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-medium.png)
+![Medium](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-medium.png)
 
 ### Next - Soft
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-soft.png)
+![Soft](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-soft.png)
 
 ### Next
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/next.png)
+![Next](https://raw.githubusercontent.com/sldobri/bunker/master/img/next.png)
 
 ### Next - Indigo
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/indigo.png)
+![Indigo](https://raw.githubusercontent.com/sldobri/bunker/master/img/indigo.png)
 
 
 ## Others Themes with bunker background and vivid colos
 
 ### Material
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/material.png)
+![Material](https://raw.githubusercontent.com/sldobri/bunker/master/img/material.png)
 
 ### Cupcake
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/cupcake.png)
+![Cupcake](https://raw.githubusercontent.com/sldobri/bunker/master/img/cupcake.png)
 
 ### Electron
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/electron.png)
 
-### Ayu
+### Electron
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/ayu.png)
+
+### Darcula
+coming soon ...
+
+### Gruvbox
+coming soon ...
 
 
 ## Details
@@ -65,6 +83,7 @@
 
 ### Icons
 ![Icons](https://raw.githubusercontent.com/sldobri/bunker/master/img/icons.png)
+
 
 New Themes and Icons coming soon ...
 
