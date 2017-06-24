@@ -2,17 +2,17 @@
 
 ## 8 dark themes, 6 background variants and 1 Icons pack
 
-### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
-### 2017/06/21 - added new Cobalt background and GunMetal variants e others screeshots
-### 2017/06/20 - added new DARK background variants
-### 2017/06/18 - added more 3 new background variants
-### 2017/06/15 - added more 2 themes with vivid colors
-### 2017/06/14 - added 3 new themes with vivid colors
-### 2017/06/10 - 2 themes with new colors
+## Changelog
+##### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
+##### 2017/06/21 - added new Cobalt background and GunMetal variants e others screeshots
+##### 2017/06/20 - added new DARK background variants
+##### 2017/06/18 - added more 3 new background variants
+##### 2017/06/15 - added more 2 themes with vivid colors
+##### 2017/06/14 - added 3 new themes with vivid colors
+##### 2017/06/10 - 2 themes with new colors
 
 
 ## FAQ
-
 ### Font used in screenshots
 ##### [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart)
 
