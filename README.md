@@ -13,7 +13,6 @@
 
 
 ## FAQ
-
 ### Font used in screenshots
 ##### [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart)
 
