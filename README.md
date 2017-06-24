@@ -1,8 +1,8 @@
-# Dobri Next - Themes and Icons pack
+## Dobri Next - Themes and Icons pack
 
-## 8 dark themes, 6 background variants and 1 Icons pack
+### 8 dark themes, 6 background variants
+### 1 Icons pack
 
-## Changelog
 ##### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
 ##### 2017/06/21 - added new Cobalt background and GunMetal variants e others screeshots
 ##### 2017/06/20 - added new DARK background variants
