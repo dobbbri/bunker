@@ -34,9 +34,6 @@
 ### Next - Cobalt
 ![Cobalt](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
 
-### Next - Solarized
-![Cobalt](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-solarized.png)
-
 ### Next - Hard
 ![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
 
