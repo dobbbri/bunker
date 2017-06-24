@@ -19,7 +19,16 @@
     "editorWidget.background": "#111820",
     "editor.selectionBackground": "#3d4148",
     "editor.findMatchBackground": "#2c3e50",
-    "editor.lineHighlightBackground": "#0b1015",
+    "editor.lineHighlightBorder": "#14344B",
+    "editor.lineHighlightBackground": "#14344B",
+    "editorWarning.border": "#FFCC00",
+    "editorError.border": "#FB467B",
+    "editorGutter.modifiedBackground": "#FFCC00",
+    "editorGutter.addedBackground": "#56D6D6",
+    "editorGutter.deletedBackground": "#FB467B",
+    "editorSuggestWidget.background": "#13232E",
+    "editorSuggestWidget.selectedBackground": "#14344B",
+    "editorHoverWidget.background": "#14344B",
     "editorCursor.foreground": "#ff8d03",
     "editorWhitespace.foreground": "#2c3e50",
     "editorIndentGuide.background": "#2c3e50",
@@ -120,7 +129,7 @@
       "scope": "storage",
       "settings": {
         "fontStyle": "",
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -165,7 +174,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": "",
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -181,7 +190,7 @@
       "scope": "meta.tag.other, entity.name.tag.style, entity.name.tag.script, meta.tag.block.script, source.js.embedded punctuation.definition.tag.html, source.css.embedded punctuation.definition.tag.html",
       "settings": {
         "fontStyle": "\n          ",
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -247,7 +256,7 @@
       "scope": "punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end",
       "settings": {
         "fontStyle": "\n          ",
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -394,7 +403,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -493,7 +502,7 @@
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {

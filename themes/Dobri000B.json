@@ -22,12 +22,18 @@
     "editorWidget.background": "#14344B",
     "editor.selectionBackground": "#14344B",
     "editor.findMatchBackground": "#14344B",
-    "editor.lineHighlightBackground": "#13232E",
+    "editor.lineHighlightBorder": "#14344B",
+    "editor.lineHighlightBackground": "#14344B",
+    "editorWarning.border": "#FFCC00",
+    "editorError.border": "#FB467B",
+    "editorSuggestWidget.background": "#13232E",
+    "editorSuggestWidget.selectedBackground": "#14344B",
+    "editorHoverWidget.background": "#14344B",
     "editorLineNumber.foreground": "#5C6370",
     "editorBracketMatch.border": "#97a7c8ff",
     "editorGutter.modifiedBackground": "#FFCC00",
     "editorGutter.addedBackground": "#56D6D6",
-    "editorGutter.deletedBackground": "#FB3871",
+    "editorGutter.deletedBackground": "#FB467B",
     "editorCursor.foreground": "#ff8d03",
     "editorWhitespace.foreground": "#14344B",
     "editorIndentGuide.background": "#14344B",
@@ -57,7 +63,7 @@
     "titleBar.activeBackground": "#13232E",
     "notification.background": "#14344B",
     "debugToolBar.background": "#14344B",
-    "dropdown.background": "#14344B",
+    "dropdown.background": "#13232E",
     "dropdown.border": "#97a7c8ff"
   },
   "tokenColors": [
@@ -109,7 +115,7 @@
       "name": "String URLs",
       "scope": "string.detected-link",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -151,7 +157,7 @@
       "name": "Object",
       "scope": "variable.other.object",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -165,7 +171,7 @@
       "name": "Classes",
       "scope": "variable.other.class, meta.class.property variable.other.property",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -193,21 +199,21 @@
       "name": "Language",
       "scope": "variable.language, meta.class variable.other.readwrite",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
       "name": "Language Prototype",
       "scope": "variable.language.prototype",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
       "name": "Python Magic Variable",
       "scope": "python.support.magic.variable",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -249,14 +255,14 @@
       "name": "Keyword (new, if, return)",
       "scope": "keyword.control, keyword.operator.new, keyword.operator.module, variable.language.super",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "C# Preprocessor",
       "scope": "meta.preprocessor, entity.name.function.preprocessor",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -291,14 +297,14 @@
       "name": "C# Keyword",
       "scope": "keyword, keyword.other.namespace, storage.modifier",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "Python Keyword Operator Logical",
       "scope": "keyword.operator.logical.python",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -341,7 +347,7 @@
       "scope": "storage.type",
       "settings": {
         "fontStyle": "",
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -380,7 +386,7 @@
       "name": "Tag name",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -409,7 +415,7 @@
       "scope": "python.builtin.support.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -486,7 +492,7 @@
       "name": "JSON Property",
       "scope": "meta.structure.dictionaryon support.type.property-name",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -500,14 +506,14 @@
       "name": "JSON Links",
       "scope": "meta.structure.dictionaryon string.quoted.double.detected-link",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "Markdown Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -521,7 +527,7 @@
       "name": "Markdown Links/Images",
       "scope": "markup.underline.link.markdown, markup.underline.link.image.markdown",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -598,7 +604,7 @@
       "name": "diff.deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {

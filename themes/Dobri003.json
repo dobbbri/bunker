@@ -19,7 +19,16 @@
     "editorWidget.background": "#111820",
     "editor.selectionBackground": "#3d4148",
     "editor.findMatchBackground": "#2c3e50",
-    "editor.lineHighlightBackground": "#0b1015",
+    "editor.lineHighlightBorder": "#14344B",
+    "editor.lineHighlightBackground": "#14344B",
+    "editorWarning.border": "#FFCC00",
+    "editorError.border": "#FB467B",
+    "editorGutter.modifiedBackground": "#FFCC00",
+    "editorGutter.addedBackground": "#56D6D6",
+    "editorGutter.deletedBackground": "#FB467B",
+    "editorSuggestWidget.background": "#13232E",
+    "editorSuggestWidget.selectedBackground": "#14344B",
+    "editorHoverWidget.background": "#14344B",
     "editorCursor.foreground": "#ff8d03",
     "editorWhitespace.foreground": "#2c3e50",
     "editorIndentGuide.background": "#2c3e50",
@@ -83,7 +92,7 @@
       "name": "Invalid",
       "scope": "invalid, invalid.illegal, invalid.broken",
       "settings": {
-        "background": "#FB3871",
+        "background": "#FB467B",
         "foreground": "#ffffff"
       }
     },
@@ -185,7 +194,7 @@
       "name": "Sub-methods",
       "scope": "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -193,7 +202,7 @@
       "scope": "variable.language",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -257,7 +266,7 @@
       "name": "Deleted",
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -315,7 +324,7 @@
       "scope": "source.js constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -357,7 +366,7 @@
       "name": "JSON Key - Level 3",
       "scope": "source.json meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -651,7 +660,7 @@
       "name": "GitGutter Deleted",
       "scope": "markup.deleted.git_gutter",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
@@ -672,7 +681,7 @@
       "name": "Bracket Unmatched",
       "scope": "brackethighlighter.unmatched",
       "settings": {
-        "foreground": "#FB3871"
+        "foreground": "#FB467B"
       }
     },
     {
