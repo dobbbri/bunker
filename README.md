@@ -1,8 +1,7 @@
 # Dobri Next - Themes and Icons pack
 
-## 8 dark themes, 7 background variants and 1 Icons pack
+## 8 dark themes, 6 background variants and 1 Icons pack
 
-### 2017/06/23 - new Solarized background variant
 ### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
 ### 2017/06/21 - added new Cobalt background and GunMetal variants e others screeshots
 ### 2017/06/20 - added new DARK background variants
@@ -15,12 +14,12 @@
 ## FAQ
 
 ### Font used in screenshots
-[Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart)
+##### [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart)
 
 ### And my others fonts
-[Iosevka](https://github.com/be5invis/Iosevka) free - compact - ligatures
-[Fira Code](https://github.com/tonsky/FiraCode) free - ligatures
-[SF Mono](https://developer.apple.com/fonts/) pay
+##### [Iosevka](https://github.com/be5invis/Iosevka) free - compact - ligatures
+##### [Fira Code](https://github.com/tonsky/FiraCode) free - ligatures
+##### [SF Mono](https://developer.apple.com/fonts/) pay
 
 
 ## My Next Colors
