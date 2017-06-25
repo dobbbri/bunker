@@ -67,7 +67,7 @@
 ![Ayu](https://raw.githubusercontent.com/sldobri/bunker/master/img/ayu.png)
 
 ### Dobri Next -C07- One
-![One](https://raw.githubusercontent.com/sldobri/bunker/master/img/one.png)
+![One](https://raw.githubusercontent.com/sldobri/bunker/master/img/One.png)
 
 ### Dobri Next -C06- Darcula
 ![Darcula](https://raw.githubusercontent.com/sldobri/bunker/master/img/darcula.png)
