@@ -1,7 +1,7 @@
 {
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
-  "description": "13 Dark Themes and 1 Icons pack with vivid colors for Visual Studio Code",
+  "description": "15 Dark Themes and 1 Icons pack with vivid colors",
   "version": "0.2.2",
   "publisher": "sldobri",
   "license": "Apache-2.0",
@@ -27,75 +27,85 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dobri Dark And Vivid Colors - Next",
+        "label": "Dobri Next -A01- Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000.json"
+        "path": "./themes/Dobri-A01.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Next - Cobalt",
+        "label": "Dobri Next -A02- Bunker",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000B.json"
+        "path": "./themes/Dobri-A02.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Next - Mirage",
+        "label": "Dobri Next -A03- Mirage",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000G.json"
+        "path": "./themes/Dobri-A03.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Next - Dark",
+        "label": "Dobri Next -A04- Cobalt",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000D.json"
+        "path": "./themes/Dobri-A04.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Next - Hard",
+        "label": "Dobri Next -B01- Hard",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000H.json"
+        "path": "./themes/Dobri-B01.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Next - Medium",
+        "label": "Dobri Next -B02- Medium",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000M.json"
+        "path": "./themes/Dobri-B02.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Next - Soft",
+        "label": "Dobri Next -B03- Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri000S.json"
+        "path": "./themes/Dobri-B03.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Indigo",
+        "label": "Dobri Next -C01- Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri001.json"
+        "path": "./themes/Dobri-C01.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Cupcake",
+        "label": "Dobri Next -C02- Indigo",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri002.json"
+        "path": "./themes/Dobri-C02.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Electron",
+        "label": "Dobri Next -C03- Material",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri004.json"
+        "path": "./themes/Dobri-C03.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Material",
+        "label": "Dobri Next -C04- Cupcake",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri003.json"
+        "path": "./themes/Dobri-C04.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - Ayu",
+        "label": "Dobri Next -C05- Electron",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri005.json"
+        "path": "./themes/Dobri-C05.json"
       },
       {
-        "label": "Dobri Dark And Vivid Colors - One",
+        "label": "Dobri Next -C06- Ayu",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dobri006.json"
+        "path": "./themes/Dobri-C06.json"
+      },
+      {
+        "label": "Dobri Next -C07- One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri-C07.json"
+      },
+      {
+        "label": "Dobri Next -C08- Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri-C08.json"
       }
     ],
     "iconThemes": [
       {
         "id": "dobri-theme-icons",
-        "label": "Dobri Dark And Vivid Icons",
+        "label": "Dobri Next -A01- Vivid Icons",
         "path": "./icons.json"
       }
     ]

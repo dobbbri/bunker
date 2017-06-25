@@ -1,10 +1,13 @@
 ## Dobri Next - Themes and Icons pack
 
-### 8 dark themes, 6 background variants
+### 9 dark themes
+### 7 dark background variants
 ### 1 Icons pack
 
+#### 2017/06/25 - I have reduced, ordered and standardized the names of themes and icons
+#### 2017/06/25 - added new Bunker background and Darcula variants and screeshots
 ##### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
-##### 2017/06/21 - added new Cobalt background and GunMetal variants e others screeshots
+##### 2017/06/21 - added new Cobalt background and GunMetal variants and others screeshots
 ##### 2017/06/20 - added new DARK background variants
 ##### 2017/06/18 - added more 3 new background variants
 ##### 2017/06/15 - added more 2 themes with vivid colors
@@ -24,66 +27,70 @@
 
 ## My Next Colors
 
-### Next - Dark
+### Dobri Next -A01- Dark
 ![Dark](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-dark.png)
 
-### Next - Mirage
-![Mirage](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-Mirage.png)
+### Dobri Next -A02- Bunker
+![Bunker](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-bunker.png)
 
-### Next - Cobalt
+### Dobri Next -A03- Mirage
+![Mirage](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mirage.png)
+
+### Dobri Next -A04- Cobalt
 ![Cobalt](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
 
-### Next - Hard
+### Dobri Next -B01- Hard
 ![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
 
-### Next - Medium
+### Dobri Next -B02- Medium
 ![Medium](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-medium.png)
 
-### Next - Soft
+### Dobri Next -B03- Soft
 ![Soft](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-soft.png)
 
-### Next
+### Dobri Next -C01- Gray
 ![Next](https://raw.githubusercontent.com/sldobri/bunker/master/img/next.png)
 
-### Next - Indigo
+### Dobri Next -C02- Indigo
 ![Indigo](https://raw.githubusercontent.com/sldobri/bunker/master/img/indigo.png)
 
-
-## Others Themes with bunker background and vivid colos
-
-### Material
+### Dobri Next -C03- Material
 ![Material](https://raw.githubusercontent.com/sldobri/bunker/master/img/material.png)
 
-### Cupcake
+### Dobri Next -C04- Cupcake
 ![Cupcake](https://raw.githubusercontent.com/sldobri/bunker/master/img/cupcake.png)
 
-### Electron
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/electron.png)
+### Dobri Next -C05- Electron
+![Electron](https://raw.githubusercontent.com/sldobri/bunker/master/img/electron.png)
 
-### Electron
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/ayu.png)
+### Dobri Next -C06- Ayu
+![Ayu](https://raw.githubusercontent.com/sldobri/bunker/master/img/ayu.png)
 
-### Darcula
-coming soon ...
+### Dobri Next -C07- One
+![One](https://raw.githubusercontent.com/sldobri/bunker/master/img/one.png)
 
-### Gruvbox
-coming soon ...
+### Dobri Next -C06- Darcula
+![Darcula](https://raw.githubusercontent.com/sldobri/bunker/master/img/darcula.png)
 
-
-## Details
-
-### Next - JS
-![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview.png)
-
-### Next - Html
-![html](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview2.png)
-
-### Next - PHP
-![PHP](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview1.png)
 
 ### Icons
+
 ![Icons](https://raw.githubusercontent.com/sldobri/bunker/master/img/icons.png)
 
+
+## Details (Dobri Next -A02- Bunker)
+
+### JS
+![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview.png)
+
+### Html
+![html](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview2.png)
+
+### PHP
+![PHP](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview1.png)
+
+### SCSS
+![SCSS](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview3.png)
 
 New Themes and Icons coming soon ...
 

@@ -289,7 +289,7 @@
       "name": "js Keyword",
       "scope": "keyword.operator.expression.instanceof.js,keyword.operator.expression.instanceof.ts,keyword.operator.new.js,keyword.operator.new.ts,keyword.operator.ternary.js,keyword.operator.ternary.ts",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -345,7 +345,7 @@
       "name": "C operator assignment",
       "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c",
       "settings": {
-        "foreground": "#C792EAff"
+        "foreground": "#CB6CFEff"
       }
     },
     {
@@ -387,7 +387,7 @@
       "name": "python logical",
       "scope": "keyword.operator.logical.python",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -450,7 +450,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -478,7 +478,7 @@
       "name": "Packages",
       "scope": "token.package.keyword",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -534,7 +534,7 @@
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -555,28 +555,28 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "Storage JS TS",
       "scope": "token.storage.js,token.storage.ts",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "for in js ts",
       "scope": "keyword.operator.expression.in.ts,keyword.operator.expression.in.js",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
       "scope": "keyword.operator.expression.delete.js,keyword.operator.expression.in.js,keyword.operator.expression.of.js,keyword.operator.expression.instanceof.js,keyword.operator.new.js,keyword.operator.expression.typeof.js,keyword.operator.expression.void.js",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -702,7 +702,7 @@
       "name": "Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -753,14 +753,14 @@
       "name": "Italic",
       "scope": "markup.italic, punctuation.definition.italic",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "Italic",
       "scope": "emphasis md",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -824,14 +824,14 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Link",
       "scope": "punctuation.definition.metadata.markdown",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
       "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -975,14 +975,14 @@
       "name": "error suppression",
       "scope": "keyword.operator.error-control.php",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "php instanceof",
       "scope": "keyword.operator.type.php",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -1045,7 +1045,7 @@
       "name": "php regexp operator",
       "scope": "keyword.operator.regexp.php",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -1066,7 +1066,7 @@
       "name": "php heredoc/nowdoc",
       "scope": "keyword.operator.heredoc.php,keyword.operator.nowdoc.php",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -1165,7 +1165,7 @@
       "name": "for of",
       "scope": "keyword.operator.expression.of.ts,keyword.operator.expression.of.js",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {

@@ -3,7 +3,7 @@
   "colors": {
     "focusBorder": "#97a7c8ff",
     "widget.shadow": "#000000",
-    "input.background": "#05080a",
+    "input.background": "#0b1015",
     "input.border": "#ff8d03",
     "list.activeSelectionBackground": "#0b1015",
     "list.activeSelectionForeground": "#ff8d03",
@@ -19,7 +19,7 @@
     "scrollbarSlider.hoverBackground": "#22303Eff",
     "editor.background": "#0b1015",
     "editor.foreground": "#97a7c8ff",
-    "editorWidget.background": "#111820",
+    "editorWidget.background": "#0b1015",
     "editor.selectionBackground": "#18222Dff",
     "editor.findMatchBackground": "#18222Dff",
     "editor.lineHighlightBorder": "#14344B",
@@ -29,7 +29,6 @@
     "editorSuggestWidget.background": "#13232E",
     "editorSuggestWidget.selectedBackground": "#14344B",
     "editorHoverWidget.background": "#14344B",
-    "editorRuler.foreground": "#18222Dff",
     "editorLineNumber.foreground": "#5C6370",
     "editorBracketMatch.border": "#97a7c8ff",
     "editorGutter.modifiedBackground": "#FFCC00",
@@ -38,6 +37,7 @@
     "editorCursor.foreground": "#ff8d03",
     "editorWhitespace.foreground": "#18222Dff",
     "editorIndentGuide.background": "#18222Dff",
+    "editorRuler.foreground": "#18222Dff",
     "tab.activeBackground": "#0b1015",
     "tab.inactiveBackground": "#0b1015",
     "tab.border": "#0b1015",
@@ -46,14 +46,14 @@
     "editorGroup.background": "#0b1015",
     "editorGroupHeader.tabsBackground": "#0b1015",
     "editorGroupHeader.noTabsBackground": "#0b1015",
-    "editorGroup.border": "#05080a",
-    "panel.background": "#05080a",
-    "panel.border": "#05080a",
+    "editorGroup.border": "#0b1015",
+    "panel.background": "#0b1015",
+    "panel.border": "#0b1015",
     "panelTitle.activeForeground": "#ff8d03",
     "panelTitle.inactiveForeground": "#97a7c8ff",
     "statusBar.foreground": "#97a7c8ff",
     "statusBar.background": "#0b1015",
-    "statusBar.debuggingBackground": "#111820",
+    "statusBar.debuggingBackground": "#0b1015",
     "activityBar.background": "#0b1015",
     "activityBar.foreground": "#97a7c8ff",
     "activityBarBadge.background": "#ff8d03",
@@ -61,9 +61,9 @@
     "sideBarSectionHeader.background": "#0b1015",
     "titleBar.inactiveForeground": "#0b1015",
     "titleBar.activeBackground": "#0b1015",
-    "notification.background": "#111820",
-    "debugToolBar.background": "#111820",
-    "dropdown.background": "#111820",
+    "notification.background": "#0b1015",
+    "debugToolBar.background": "#0b1015",
+    "dropdown.background": "#0b1015",
     "dropdown.border": "#97a7c8ff"
   },
   "tokenColors": [
@@ -115,7 +115,7 @@
       "name": "String URLs",
       "scope": "string.detected-link",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -255,14 +255,14 @@
       "name": "Keyword (new, if, return)",
       "scope": "keyword.control, keyword.operator.new, keyword.operator.module, variable.language.super",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "C# Preprocessor",
       "scope": "meta.preprocessor, entity.name.function.preprocessor",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -297,14 +297,14 @@
       "name": "C# Keyword",
       "scope": "keyword, keyword.other.namespace, storage.modifier",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "Python Keyword Operator Logical",
       "scope": "keyword.operator.logical.python",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -347,7 +347,7 @@
       "scope": "storage.type",
       "settings": {
         "fontStyle": "",
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -415,7 +415,7 @@
       "scope": "python.builtin.support.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -506,7 +506,7 @@
       "name": "JSON Links",
       "scope": "meta.structure.dictionaryon string.quoted.double.detected-link",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -527,7 +527,7 @@
       "name": "Markdown Links/Images",
       "scope": "markup.underline.link.markdown, markup.underline.link.image.markdown",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
