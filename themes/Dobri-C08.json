@@ -61,7 +61,7 @@
     "terminal.ansiBlack": "#05080a",
     "terminal.ansiBlue": "#82AAFF",
     "terminal.ansiCyan": "#89DDFF",
-    "terminal.ansiGreen": "#C3E88D",
+    "terminal.ansiGreen": "#4EC9B0",
     "terminal.ansiMagenta": "#CB6CFE",
     "terminal.ansiRed": "#FB467B",
     "terminal.ansiYellow": "#FFCB6B",
@@ -69,7 +69,7 @@
     "terminal.ansiBrightBlack": "#676E95",
     "terminal.ansiBrightBlue": "#82AAFF",
     "terminal.ansiBrightCyan": "#89DDFF",
-    "terminal.ansiBrightGreen": "#C3E88D",
+    "terminal.ansiBrightGreen": "#4EC9B0",
     "terminal.ansiBrightMagenta": "#CB6CFE",
     "terminal.ansiBrightRed": "#FB467B",
     "terminal.ansiBrightYellow": "#FFCB6B"
@@ -192,7 +192,7 @@
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
@@ -210,7 +210,7 @@
     {
       "scope": "beginning.punctuation.definition.quote.markdown",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
@@ -253,7 +253,7 @@
     {
       "scope": "meta.preprocessor.numeric",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
@@ -289,25 +289,25 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
@@ -399,7 +399,7 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
@@ -420,7 +420,7 @@
     {
       "scope": "constant.sha.git-rebase",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#4EC9B0"
       }
     },
     {
@@ -479,7 +479,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#C3E88D"
       }
     },
     {
@@ -513,7 +513,7 @@
         "support.constant.json"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#C3E88D"
       }
     },
     {
