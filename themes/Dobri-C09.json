@@ -1,5 +1,6 @@
 {
   "type": "dark",
+  "name": "material peacock",
   "colors": {
     "editor.background": "#0B1015",
     "editor.foreground": "#ede0ce",
