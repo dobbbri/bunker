@@ -4,8 +4,9 @@
 ### 7 dark background variants
 ### 1 Icons pack
 
-#### 2017/06/25 - I have reduced, ordered and standardized the names of themes and icons
-#### 2017/06/25 - added new Bunker background and Darcula variants and screeshots
+#### 2017/06/25 - New Jaguar background and Theme Eve
+##### 2017/06/25 - I have reduced, ordered and standardized the names of themes and icons
+##### 2017/06/25 - added new Bunker background and Darcula variants and screeshots
 ##### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
 ##### 2017/06/21 - added new Cobalt background and GunMetal variants and others screeshots
 ##### 2017/06/20 - added new DARK background variants
@@ -38,6 +39,9 @@
 
 ### Dobri Next -A04- Cobalt
 ![Cobalt](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-cobalt.png)
+
+### Dobri Next -A05- Jaguar
+![Jaguar](https://raw.githubusercontent.com/sldobri/bunker/master/img/jaguar.png)
 
 ### Dobri Next -B01- Hard
 ![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
