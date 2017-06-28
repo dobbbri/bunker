@@ -401,7 +401,15 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#AE81FF"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": "text.html.basic entity.other.attribute-name.html, text.html.basic entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#FFCB6B"
       }
     },
     {
@@ -409,6 +417,27 @@
       "scope": "selector.css.entity.other.attribute-name",
       "settings": {
         "foreground": "#FFCC00"
+      }
+    },
+    {
+      "name": "CSS Id",
+      "scope": "source.sass keyword.control",
+      "settings": {
+        "foreground": "#61AFEF"
+      }
+    },
+    {
+      "name": "CSS Classes",
+      "scope": "entity.other.attribute-name.class",
+      "settings": {
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "name": "CSS Class and Support",
+      "scope": "source.css support.type, source.sass support.type, source.scss support.type, source.less support.type, source.stylus support.type",
+      "settings": {
+        "foreground": "#97a7c8ff"
       }
     },
     {
@@ -639,6 +668,13 @@
       "scope": "entity.name.filename.find-in-files",
       "settings": {
         "foreground": "#E6DB74"
+      }
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": "keyword, storage.type, storage.modifier",
+      "settings": {
+        "foreground": "#AE81FF"
       }
     },
     {

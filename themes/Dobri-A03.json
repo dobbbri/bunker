@@ -255,14 +255,14 @@
       "name": "Keyword (new, if, return)",
       "scope": "keyword.control, keyword.operator.new, keyword.operator.module, variable.language.super",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "C# Preprocessor",
       "scope": "meta.preprocessor, entity.name.function.preprocessor",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -297,14 +297,14 @@
       "name": "C# Keyword",
       "scope": "keyword, keyword.other.namespace, storage.modifier",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
       "name": "Python Keyword Operator Logical",
       "scope": "keyword.operator.logical.python",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -340,14 +340,6 @@
       "scope": "python.keyword.operator",
       "settings": {
         "foreground": "#56D6D6"
-      }
-    },
-    {
-      "name": "Storage type",
-      "scope": "storage.type",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#C792EA"
       }
     },
     {
@@ -393,7 +385,15 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#AE81FF"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": "text.html.basic entity.other.attribute-name.html, text.html.basic entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#FFCB6B"
       }
     },
     {
@@ -401,6 +401,27 @@
       "scope": "selector.css.entity.other.attribute-name",
       "settings": {
         "foreground": "#FFCC00"
+      }
+    },
+    {
+      "name": "CSS Id",
+      "scope": "source.sass keyword.control",
+      "settings": {
+        "foreground": "#61AFEF"
+      }
+    },
+    {
+      "name": "CSS Classes",
+      "scope": "entity.other.attribute-name.class",
+      "settings": {
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "name": "CSS Class and Support",
+      "scope": "source.css support.type, source.sass support.type, source.scss support.type, source.less support.type, source.stylus support.type",
+      "settings": {
+        "foreground": "#97a7c8ff"
       }
     },
     {
@@ -415,7 +436,7 @@
       "scope": "python.builtin.support.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -506,7 +527,7 @@
       "name": "JSON Links",
       "scope": "meta.structure.dictionaryon string.quoted.double.detected-link",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -527,7 +548,7 @@
       "name": "Markdown Links/Images",
       "scope": "markup.underline.link.markdown, markup.underline.link.image.markdown",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#CB6CFE"
       }
     },
     {
@@ -631,6 +652,13 @@
       "scope": "entity.name.filename.find-in-files",
       "settings": {
         "foreground": "#E6DB74"
+      }
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": "keyword, storage.type, storage.modifier",
+      "settings": {
+        "foreground": "#AE81FF"
       }
     },
     {
