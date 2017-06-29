@@ -1,4 +1,5 @@
 {
+  "name": "Material",
   "type": "dark",
   "colors": {
     "focusBorder": "#2c3e50",

@@ -1,8 +1,8 @@
 {
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
-  "description": "15 Dark Themes and 1 Icons pack with vivid colors",
-  "version": "0.2.6",
+  "description": "15 Dark Themes with vivid colors and 1 Icons pack ",
+  "version": "0.2.7",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -50,6 +50,11 @@
         "label": "Dobri Next -A05- Jaguar",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri-A05.json"
+      },
+      {
+        "label": "Dobri Next -A06- Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri-A06.json"
       },
       {
         "label": "Dobri Next -B01- Hard",

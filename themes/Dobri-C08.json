@@ -1,6 +1,6 @@
 {
+  "name": "Darcula",
   "type": "dark",
-  "name": "darcula",
   "colors": {
     "focusBorder": "#97a7c8ff",
     "widget.shadow": "#000000",

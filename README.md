@@ -1,14 +1,15 @@
 ## Dobri Next - Themes and Icons pack
 
-### 9 dark themes
-### 7 dark background variants
+### 6 dark themes
+### 9 dark background variants
 ### 1 Icons pack
 
-#### 2017/06/25 - New Jaguar background and Theme Eve
+#### 2017/06/29 - New Amethyst background variant
+#### 2017/06/28 - New Jaguar background and Theme Eve
 ##### 2017/06/25 - I have reduced, ordered and standardized the names of themes and icons
-##### 2017/06/25 - added new Bunker background and Darcula variants and screeshots
-##### 2017/06/23 - Changed GunMetal background to Mirage background and screeshots
-##### 2017/06/21 - added new Cobalt background and GunMetal variants and others screeshots
+##### 2017/06/25 - added new Bunker background variants and Darcula variants and screeshots
+##### 2017/06/23 - Changed GunMetal background variants to Mirage background variants and screeshots
+##### 2017/06/21 - added new Cobalt background variants and GunMetal variants and others screeshots
 ##### 2017/06/20 - added new DARK background variants
 ##### 2017/06/18 - added more 3 new background variants
 ##### 2017/06/15 - added more 2 themes with vivid colors
@@ -43,6 +44,9 @@
 ### Dobri Next -A05- Jaguar
 ![Jaguar](https://raw.githubusercontent.com/sldobri/bunker/master/img/jaguar.png)
 
+### Dobri Next -A05- Amethyst
+![Amethyst](https://raw.githubusercontent.com/sldobri/bunker/master/img/amethyst.png)
+
 ### Dobri Next -B01- Hard
 ![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
 
@@ -73,8 +77,11 @@
 ### Dobri Next -C07- One
 ![One](https://raw.githubusercontent.com/sldobri/bunker/master/img/One.png)
 
-### Dobri Next -C06- Darcula
+### Dobri Next -C08- Darcula
 ![Darcula](https://raw.githubusercontent.com/sldobri/bunker/master/img/darcula.png)
+
+### Dobri Next -C09- Eve
+![Eve](https://raw.githubusercontent.com/sldobri/bunker/master/img/eve.png)
 
 
 ### Icons
