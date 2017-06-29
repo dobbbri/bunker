@@ -1,7 +1,7 @@
 ## Dobri Next - Themes and Icons pack
 
-### 6 dark themes
-### 9 dark background variants
+### 9 dark themes
+### 6 dark background variants
 ### 1 Icons pack
 
 #### 2017/06/29 - New Amethyst background variant
