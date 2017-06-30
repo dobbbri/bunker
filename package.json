@@ -1,8 +1,8 @@
 {
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
-  "description": "15 Dark Themes with vivid colors and 1 Icons pack ",
-  "version": "0.2.7",
+  "description": "18 Dark Themes with vivid colors and 1 Icons pack - Most complete",
+  "version": "0.2.8",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -129,5 +129,6 @@
     "id": "1256df07-e7c0-4e17-bd23-96b617cf21bc",
     "publisherId": "688471b5-3365-4cd5-8597-783c039d84e3",
     "publisherDisplayName": "Sergio Luiz Dobri"
-  }
+  },
+  "dependencies": {}
 }

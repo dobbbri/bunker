@@ -2,6 +2,7 @@
 
 ### 9 dark themes
 ### 6 dark background variants
+### 3 Hard/Medium/Soft background variants
 ### 1 Icons pack
 
 #### 2017/06/29 - New Amethyst background variant
