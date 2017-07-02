@@ -1,21 +1,22 @@
 ## Dobri Next - Themes and Icons pack
 
-### 9 dark themes
-### 6 dark background variants
-### 3 Hard/Medium/Soft background variants
-### 1 Icons pack
+| 9 | dark themes |
+| 7 | dark background variants |
+| 3 | Hard/Medium/Soft background variants |
+| 1 | Icons pack |
 
-#### 2017/06/29 - New Amethyst background variant
-#### 2017/06/28 - New Jaguar background and Theme Eve
-##### 2017/06/25 - I have reduced, ordered and standardized the names of themes and icons
-##### 2017/06/25 - added new Bunker background variants and Darcula variants and screeshots
-##### 2017/06/23 - Changed GunMetal background variants to Mirage background variants and screeshots
-##### 2017/06/21 - added new Cobalt background variants and GunMetal variants and others screeshots
-##### 2017/06/20 - added new DARK background variants
-##### 2017/06/18 - added more 3 new background variants
-##### 2017/06/15 - added more 2 themes with vivid colors
-##### 2017/06/14 - added 3 new themes with vivid colors
-##### 2017/06/10 - 2 themes with new colors
+
+| 2017/07/02 | New Oxford background variant |
+| 2017/06/28 | New Jaguar background and Theme Eve |
+| 2017/06/25 | I have reduced, ordered and standardized the names of themes and icons |
+| 2017/06/25 | added new Bunker background variants and Darcula variants and screeshots |
+| 2017/06/23 | Changed GunMetal background variants to Mirage background variants and screeshots |
+| 2017/06/21 | added new Cobalt background variants and GunMetal variants and others screeshots |
+| 2017/06/20 | added new DARK background variants |
+| 2017/06/18 | added more 3 new background variants |
+| 2017/06/15 | added more 2 themes with vivid colors |
+| 2017/06/14 | added 3 new themes with vivid colors |
+| 2017/06/10 | 2 themes with new colors |
 
 
 ## FAQ
@@ -45,8 +46,11 @@
 ### Dobri Next -A05- Jaguar
 ![Jaguar](https://raw.githubusercontent.com/sldobri/bunker/master/img/jaguar.png)
 
-### Dobri Next -A05- Amethyst
+### Dobri Next -A06- Amethyst
 ![Amethyst](https://raw.githubusercontent.com/sldobri/bunker/master/img/amethyst.png)
+
+### Dobri Next -A07- Oxford
+![Oxford](https://raw.githubusercontent.com/sldobri/bunker/master/img/oxford.png)
 
 ### Dobri Next -B01- Hard
 ![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)

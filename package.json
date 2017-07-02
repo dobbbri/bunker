@@ -1,8 +1,8 @@
 {
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
-  "description": "18 Dark Themes with vivid colors and 1 Icons pack - Most complete",
-  "version": "0.2.8",
+  "description": "19 Dark Themes with vivid colors and 1 Icons pack - Most complete",
+  "version": "0.2.9",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -55,6 +55,11 @@
         "label": "Dobri Next -A06- Amethyst",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri-A06.json"
+      },
+      {
+        "label": "Dobri Next -A07- Oxford",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri-A07.json"
       },
       {
         "label": "Dobri Next -B01- Hard",
@@ -125,10 +130,10 @@
       }
     ]
   },
+  "dependencies": {},
   "__metadata": {
     "id": "1256df07-e7c0-4e17-bd23-96b617cf21bc",
     "publisherId": "688471b5-3365-4cd5-8597-783c039d84e3",
     "publisherDisplayName": "Sergio Luiz Dobri"
-  },
-  "dependencies": {}
+  }
 }
