@@ -1,11 +1,16 @@
 ## Dobri Next - Themes and Icons pack
 
+## Info
+| Qt. | Description |
+| ------ | ------ |
 | 9 | dark themes |
 | 7 | dark background variants |
 | 3 | Hard/Medium/Soft background variants |
 | 1 | Icons pack |
 
-
+## Changelog
+| Date | Description |
+| ------ | ------ |
 | 2017/07/02 | New Oxford background variant |
 | 2017/06/28 | New Jaguar background and Theme Eve |
 | 2017/06/25 | I have reduced, ordered and standardized the names of themes and icons |
