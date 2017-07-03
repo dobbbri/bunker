@@ -1,4 +1,5 @@
-## Dobri Next - Themes and Icons pack
+## Dobri Next
+#### 19 colorful and meticulous dark theme and 1 Icons pack. Most complete theme/icon pack
 
 ## Info
 | Qt. | Description |
