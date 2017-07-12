@@ -18,7 +18,7 @@
     "scrollbarSlider.background": "#18222Dff",
     "scrollbarSlider.hoverBackground": "#22303Eff",
     "editor.background": "#0b1015",
-    "editor.foreground": "#f5f5f5",
+    "editor.foreground": "#CED5E5",
     "editorWidget.background": "#0b1015",
     "editor.selectionBackground": "#18222Dff",
     "editor.findMatchBackground": "#18222Dff",
@@ -70,7 +70,7 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#f5f5f5",
+        "foreground": "#CED5E5",
         "background": "#05080a"
       }
     },
@@ -215,7 +215,7 @@
       "name": "Language Prototype",
       "scope": "variable.language.prototype",
       "settings": {
-        "foreground": "#f5f5f5"
+        "foreground": "#CED5E5"
       }
     },
     {
@@ -627,7 +627,7 @@
       "name": "diff.header",
       "scope": "meta.diff, meta.diff.header",
       "settings": {
-        "foreground": "#f5f5f5"
+        "foreground": "#CED5E5"
       }
     },
     {

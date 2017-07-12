@@ -1,17 +1,18 @@
 ## Dobri Next
-#### 19 colorful and meticulous dark theme and 1 Icons pack. Most complete theme/icon pack
+#### 20 colorful and meticulous dark theme and 1 Icons pack. Most complete theme/icon pack
 
 ## Info
 | Qt. | Description |
 | ------ | ------ |
 | 9 | dark themes |
-| 7 | dark background variants |
+| 8 | dark background variants |
 | 3 | Hard/Medium/Soft background variants |
 | 1 | Icons pack |
 
 ## Changelog
 | Date | Description |
 | ------ | ------ |
+| 2017/07/12 | New Midnight background variant |
 | 2017/07/02 | New Oxford background variant |
 | 2017/06/28 | New Jaguar background and Theme Eve |
 | 2017/06/25 | I have reduced, ordered and standardized the names of themes and icons |
@@ -57,6 +58,9 @@
 
 ### Dobri Next -A07- Oxford
 ![Oxford](https://raw.githubusercontent.com/sldobri/bunker/master/img/oxford.png)
+
+### Dobri Next -A08- Midnight
+![Midnight](https://raw.githubusercontent.com/sldobri/bunker/master/img/midnight.png)
 
 ### Dobri Next -B01- Hard
 ![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
