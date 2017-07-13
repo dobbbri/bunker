@@ -39,8 +39,8 @@
 
 ## My Next Colors
 
-### Dobri Next -A00- Dark
-![Dark](https://raw.githubusercontent.com/sldobri/bunker/master/img/black.png)
+### Dobri Next -A00- Black
+![Black](https://raw.githubusercontent.com/sldobri/bunker/master/img/black.png)
 
 ### Dobri Next -A01- Dark
 ![Dark](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-dark.png)
