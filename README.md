@@ -1,17 +1,18 @@
 ## Dobri Next
-#### 20 colorful and meticulous dark theme and 1 Icons pack. Most complete theme/icon pack
+#### 21 colorful and meticulous dark theme and 1 Icons pack. Most complete theme/icon pack
 
 ## Info
 | Qt. | Description |
 | ------ | ------ |
 | 9 | dark themes |
-| 8 | dark background variants |
+| 9 | dark background variants |
 | 3 | Hard/Medium/Soft background variants |
 | 1 | Icons pack |
 
 ## Changelog
 | Date | Description |
 | ------ | ------ |
+| 2017/07/13 | New Black background variant |
 | 2017/07/12 | New Midnight background variant |
 | 2017/07/02 | New Oxford background variant |
 | 2017/06/28 | New Jaguar background and Theme Eve |
@@ -37,6 +38,9 @@
 
 
 ## My Next Colors
+
+### Dobri Next -A00- Dark
+![Dark](https://raw.githubusercontent.com/sldobri/bunker/master/img/black.png)
 
 ### Dobri Next -A01- Dark
 ![Dark](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-dark.png)
