@@ -1,5 +1,5 @@
 ## Dobri Next
-#### 21 colorful and meticulous dark theme and 1 Icons pack. Most complete theme/icon pack
+#### 21 colorful and meticulous dark theme and 2 Icons packs. Most complete theme/icon pack
 
 ## Info
 | Qt. | Description |
@@ -7,11 +7,12 @@
 | 9 | dark themes |
 | 9 | dark background variants |
 | 3 | Hard/Medium/Soft background variants |
-| 1 | Icons pack |
+| 2 | Icons packs |
 
 ## Changelog
 | Date | Description |
 | ------ | ------ |
+| 2017/07/15 | New Icons pack - Official Icons |
 | 2017/07/13 | New Black background variant |
 | 2017/07/12 | New Midnight background variant |
 | 2017/07/02 | New Oxford background variant |
