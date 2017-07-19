@@ -27,15 +27,14 @@
 | 2017/06/14 | added 3 new themes with vivid colors |
 | 2017/06/10 | 2 themes with new colors |
 
-
-## FAQ
 ### Font used in screenshots
-##### [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart)
 
-### And my others fonts
-##### [Iosevka](https://github.com/be5invis/Iosevka) free - compact - ligatures
-##### [Fira Code](https://github.com/tonsky/FiraCode) free - ligatures
-##### [SF Mono](https://developer.apple.com/fonts/) pay
+| Name | linK | obs |
+| ------ | ------ | ------ |
+| Operator Mono | https://www.typography.com/fonts/operator/styles/operatormonoscreensmart | |
+| SF Mono | https://developer.apple.com/fonts ||
+| Iosevka| https://github.com/be5invis/Iosevka | compact - ligatures |
+| Fira Code | https://github.com/tonsky/FiraCode | ligatures |
 
 
 ## My Next Colors
