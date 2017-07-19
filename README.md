@@ -29,12 +29,11 @@
 
 ### Font used in screenshots
 
-| Name | linK | obs |
+| Name/Link | Free | obs |
 | ------ | ------ | ------ |
-| Operator Mono | https://www.typography.com/fonts/operator/styles/operatormonoscreensmart | |
-| SF Mono | https://developer.apple.com/fonts ||
-| Iosevka| https://github.com/be5invis/Iosevka | compact - ligatures |
-| Fira Code | https://github.com/tonsky/FiraCode | ligatures |
+| ![Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart) | | |
+| ![SF Mono](https://developer.apple.com/fonts) | | |
+| ![Iosevka](https://github.com/be5invis/Iosevka) | X | ligatures, compact |
 
 
 ## My Next Colors
