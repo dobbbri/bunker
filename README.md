@@ -1,12 +1,13 @@
-## Dobri Next
-#### 21 colorful and meticulous dark theme and 2 Icons packs. Most complete theme/icon pack
+## Dobri Next Pro ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+#### 21 colorful and meticulous dark theme
+####  2 Icons packs.
 
 ## Info
 | Qt. | Description |
 | ------ | ------ |
-| 9 | dark themes |
-| 9 | dark background variants |
+| 9 | dark background variants of my next |
 | 3 | Hard/Medium/Soft background variants |
+| 9 | more famous dark themes with new vivid colors|
 | 2 | Icons packs |
 
 ## Changelog
