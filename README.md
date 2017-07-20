@@ -13,7 +13,7 @@
 ## Changelog
 | Date | Description |
 | ------ | ------ |
-| 2017/07/20 | :tada: 2 themes redesigned for Linux Ubuntu _Mirage ARC_ and _Oxford ADAPTA_ |
+| 2017/07/20 | 🎉 2 themes redesigned for Linux Ubuntu _Mirage ARC_ and _Oxford ADAPTA_ |
 | 2017/07/15 | New Icons pack - Official Icons |
 | 2017/07/13 | New Black background variant |
 | 2017/07/12 | New Midnight background variant |
@@ -49,7 +49,7 @@
 ### Dobri Next -A02- Bunker
 ![Bunker](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-bunker.png)
 
-### :tada: Dobri Next -A03- Mirage ARC -> _Ubuntu Adapta GTK theme_
+### 🎉 Dobri Next -A03- Mirage ARC -> _Ubuntu Adapta GTK theme_
 ![Mirage](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mirage.png)
 
 ### Dobri Next -A04- Cobalt
@@ -61,7 +61,7 @@
 ### Dobri Next -A06- Amethyst
 ![Amethyst](https://raw.githubusercontent.com/sldobri/bunker/master/img/amethyst.png)
 
-### :tada: Dobri Next -A07- Oxford ADAPTA -> _Ubuntu Adapta GTK theme_
+### 🎉 Dobri Next -A07- Oxford ADAPTA -> _Ubuntu Adapta GTK theme_
 ![Oxford](https://raw.githubusercontent.com/sldobri/bunker/master/img/oxford.png)
 
 ### Dobri Next -A08- Midnight
