@@ -42,7 +42,7 @@
         "path": "./themes/Dobri-A02.json"
       },
       {
-        "label": "Dobri Next -A03- Mirage",
+        "label": "Dobri Next -A03- Mirage ARC",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri-A03.json"
       },
@@ -62,7 +62,7 @@
         "path": "./themes/Dobri-A06.json"
       },
       {
-        "label": "Dobri Next -A07- Oxford",
+        "label": "Dobri Next -A07- Oxford ADAPTA",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri-A07.json"
       },
