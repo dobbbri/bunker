@@ -5,7 +5,7 @@
 ## Info
 | Qt. | Description |
 | ------ | ------ |
-| 9 | dark background variants of my next |
+| 9 | dark background variants of my next (2 for linux) |
 | 3 | Hard/Medium/Soft background variants |
 | 9 | more famous dark themes with new vivid colors|
 | 2 | Icons packs |
@@ -13,6 +13,7 @@
 ## Changelog
 | Date | Description |
 | ------ | ------ |
+| 2017/07/20 | :tada: 2 themes redesigned for Linux Ubuntu _Mirage ARC_ and _Oxford ADAPTA_ |
 | 2017/07/15 | New Icons pack - Official Icons |
 | 2017/07/13 | New Black background variant |
 | 2017/07/12 | New Midnight background variant |
@@ -48,7 +49,7 @@
 ### Dobri Next -A02- Bunker
 ![Bunker](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-bunker.png)
 
-### Dobri Next -A03- Mirage
+### :tada: Dobri Next -A03- Mirage ARC -> _Ubuntu Adapta GTK theme_
 ![Mirage](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mirage.png)
 
 ### Dobri Next -A04- Cobalt
@@ -60,7 +61,7 @@
 ### Dobri Next -A06- Amethyst
 ![Amethyst](https://raw.githubusercontent.com/sldobri/bunker/master/img/amethyst.png)
 
-### Dobri Next -A07- Oxford
+### :tada: Dobri Next -A07- Oxford ADAPTA -> _Ubuntu Adapta GTK theme_
 ![Oxford](https://raw.githubusercontent.com/sldobri/bunker/master/img/oxford.png)
 
 ### Dobri Next -A08- Midnight
