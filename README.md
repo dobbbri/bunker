@@ -1,19 +1,20 @@
 ## Dobri Next Pro ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
-#### 21 colorful and meticulous dark theme
-####  2 Icons packs.
+#### 23 colorful and meticulous dark theme
+####  2 Icons packs with Vivid colors.
 
 ## Info
 | Qt. | Description |
 | ------ | ------ |
-| 9 | dark background variants of my next (2 for linux) |
+| 9 | dark background variants with Vivid colors |
+| 2 | 🎉 dark backgrounds variant Inpired Linux GTK themes |
 | 3 | Hard/Medium/Soft background variants |
-| 9 | more famous dark themes with new vivid colors|
+| 9 | More famous dark themes of VSCode marketplace with vivid colors|
 | 2 | Icons packs |
 
 ## Changelog
 | Date | Description |
 | ------ | ------ |
-| 2017/07/20 | 🎉 2 themes redesigned for Linux Ubuntu _Mirage ARC_ and _Oxford ADAPTA_ |
+| 2017/07/21 | 🎉 Arc Dark and Adapta Nokto, 2 new backgrounds variant Inpired Linux GTK themes |
 | 2017/07/15 | New Icons pack - Official Icons |
 | 2017/07/13 | New Black background variant |
 | 2017/07/12 | New Midnight background variant |
@@ -29,16 +30,8 @@
 | 2017/06/14 | added 3 new themes with vivid colors |
 | 2017/06/10 | 2 themes with new colors |
 
-### Font used in screenshots
 
-| Name/Link | Free | obs |
-| ------ | ------ | ------ |
-| ![Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart) | | |
-| ![SF Mono](https://developer.apple.com/fonts) | | |
-| ![Iosevka](https://github.com/be5invis/Iosevka) | X | ligatures, compact |
-
-
-## My Next Colors
+## _My Next Colors with Operator Mono Font_
 
 ### Dobri Next -A00- Black
 ![Black](https://raw.githubusercontent.com/sldobri/bunker/master/img/black.png)
@@ -49,7 +42,7 @@
 ### Dobri Next -A02- Bunker
 ![Bunker](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-bunker.png)
 
-### 🎉 Dobri Next -A03- Mirage ARC -> _Ubuntu Adapta GTK theme_
+### Dobri Next -A03- Mirage
 ![Mirage](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-mirage.png)
 
 ### Dobri Next -A04- Cobalt
@@ -61,11 +54,17 @@
 ### Dobri Next -A06- Amethyst
 ![Amethyst](https://raw.githubusercontent.com/sldobri/bunker/master/img/amethyst.png)
 
-### 🎉 Dobri Next -A07- Oxford ADAPTA -> _Ubuntu Adapta GTK theme_
+### Dobri Next -A07- Oxford
 ![Oxford](https://raw.githubusercontent.com/sldobri/bunker/master/img/oxford.png)
 
 ### Dobri Next -A08- Midnight
 ![Midnight](https://raw.githubusercontent.com/sldobri/bunker/master/img/midnight.png)
+
+### 🎉  Dobri Next -A09- Arc Dark
+![ArcDark](https://raw.githubusercontent.com/sldobri/bunker/master/img/arc.png)
+
+### 🎉  Dobri Next -A10- Adapta Nokto
+![AdaptaNokto](https://raw.githubusercontent.com/sldobri/bunker/master/img/adapta.png)
 
 ### Dobri Next -B01- Hard
 ![Hard](https://raw.githubusercontent.com/sldobri/bunker/master/img/next-hard.png)
@@ -104,12 +103,12 @@
 ![Eve](https://raw.githubusercontent.com/sldobri/bunker/master/img/eve.png)
 
 
-### Icons
+### _Icons_
 
 ![Icons](https://raw.githubusercontent.com/sldobri/bunker/master/img/icons.png)
 
 
-## Details (Dobri Next -A02- Bunker)
+## _Details (Dobri Next -A02- Bunker)_
 
 ### JS
 ![js](https://raw.githubusercontent.com/sldobri/bunker/master/img/preview.png)

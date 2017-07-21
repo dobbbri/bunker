@@ -1,8 +1,8 @@
 {
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
-  "description": "21 colorful and meticulous dark theme and 2 Icons pack. 2 themes for Linux",
-  "version": "1.1.1",
+  "description": "23 colorful and meticulous dark theme and 2 Icons pack. 2 themes for Linux",
+  "version": "1.1.2",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -42,7 +42,7 @@
         "path": "./themes/Dobri-A02.json"
       },
       {
-        "label": "Dobri Next -A03- Mirage ARC",
+        "label": "Dobri Next -A03- Mirage",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri-A03.json"
       },
@@ -62,7 +62,7 @@
         "path": "./themes/Dobri-A06.json"
       },
       {
-        "label": "Dobri Next -A07- Oxford ADAPTA",
+        "label": "Dobri Next -A07- Oxford",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri-A07.json"
       },
@@ -70,6 +70,16 @@
         "label": "Dobri Next -A08- Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/Dobri-A08.json"
+      },
+      {
+        "label": "Dobri Next -A09- Arc Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri-A09.json"
+      },
+      {
+        "label": "Dobri Next -A10- Adapta Nokto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dobri-A10.json"
       },
       {
         "label": "Dobri Next -B01- Hard",
