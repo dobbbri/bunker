@@ -18,6 +18,7 @@
     "scrollbar.shadow": "#0b1015",
     "scrollbarSlider.background": "#18222Dff",
     "scrollbarSlider.hoverBackground": "#22303Eff",
+    "editorOverviewRuler.border": "#0b1015",
     "editor.background": "#0b1015",
     "editor.foreground": "#97a7c8ff",
     "editorWidget.background": "#111820",
