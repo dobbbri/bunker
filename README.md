@@ -1,6 +1,7 @@
 ## Dobri Next Pro ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 #### 23 colorful and meticulous dark theme
 ####  2 Icons packs with Vivid colors.
+####  7 Border Hacks
 
 ## Info
 | Qt. | Description |
@@ -10,6 +11,7 @@
 | 3 | Hard/Medium/Soft background variants |
 | 9 | More famous dark themes of VSCode marketplace with vivid colors|
 | 2 | Icons packs |
+| 7 | Border Hacks to add in your settings|
 
 ## Changelog
 | Date | Description |
@@ -34,7 +36,6 @@
 
 ### 🖼 You can customize your active Visual Studio Code color border.
 ##### Add this in you setting.
-Each title of each theme contains the border color suggestion to change bellow
 ```
 
   "workbench.colorCustomizations": {
@@ -55,7 +56,7 @@ Each title of each theme contains the border color suggestion to change bellow
   },
 
 ```
-
+Each title of each theme contains the border color suggestion
 
 ## _My Next Colors with Operator Mono Font_
 
