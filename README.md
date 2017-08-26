@@ -16,6 +16,7 @@
 ## Changelog
 | Date | Description |
 | ------ | ------ |
+| 2017/06/26 | fix colors of Darcula theme (is 99% like WebStorm and PhpStorm by Intellij) |
 | 2017/07/21 | 🖼 Border Hacks - See how todo |
 | 2017/07/21 | Arc Dark and Adapta Nokto, 2 new backgrounds variant Inpired Linux GTK themes |
 | 2017/07/15 | New Icons pack - Official Icons |
@@ -144,9 +145,11 @@ Each title of each theme contains the border color suggestion
  - Border color suggestion: #2c3e50
 ![One](https://raw.githubusercontent.com/sldobri/bunker/master/img/One.png)
 
-### Dobri Next -C08- Darcula
+
+### Dobri Next -C08- Darcula (99% like **PhpStorm** and **WebStorm** by Intellij)
  - Border color suggestion: #2c3e50
-![Darcula](https://raw.githubusercontent.com/sldobri/bunker/master/img/darcula.png)
+![PhpStorm](https://raw.githubusercontent.com/sldobri/darcula-5-stars/master/images/darcula-phpstorm.png)
+![WebStorm](https://raw.githubusercontent.com/sldobri/darcula-5-stars/master/images/darcula-webstorm.png)
 
 ### Dobri Next -C09- Eve
  - Border color suggestion: #2c3e50
