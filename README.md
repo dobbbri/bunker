@@ -40,6 +40,8 @@
 ```
 
   "workbench.colorCustomizations": {
+    // Border separating the title bar from the rest of the editor
+    "titleBar.border": "#18222D",
     // Border color to separate Tabs from each other
     "tab.border": "#18222D",
     // Border color on the top separating to the editor (terminal)
