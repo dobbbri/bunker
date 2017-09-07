@@ -16,6 +16,7 @@
 ## Changelog
 | Date | Description |
 | ------ | ------ |
+| 2017/08/07 | add color to active tab border bottom|
 | 2017/06/26 | fix colors of Darcula theme (is 99% like WebStorm and PhpStorm by Intellij) |
 | 2017/07/21 | 🖼 Border Hacks - See how todo |
 | 2017/07/21 | Arc Dark and Adapta Nokto, 2 new backgrounds variant Inpired Linux GTK themes |
